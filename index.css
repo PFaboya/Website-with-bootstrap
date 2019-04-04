@@ -22,3 +22,21 @@
   background-size: 100%;
   color: white;
 }
+
+.patch-descrip{
+  font-size: 25px;
+}
+
+.play{
+  background-image: url(images/human-slayer.png);
+  background-size: 100%;
+  background-position: center;
+  color: white;
+  background-repeat: no-repeat;
+  height: 325px;
+  background-color: white;
+}
+
+.play-descrip{
+  font-size: 25px;
+}
