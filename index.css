@@ -1,0 +1,24 @@
+.main-banner{
+  background-image: url(images/Tera-main-pic.png);
+  background-size: 100%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  margin-top:10px;
+  text-align: right;
+  color: black;
+  height: 520px;
+}
+
+
+.Intro{
+  font-size: 50px;
+  text-align: center;
+  color: #429ef4
+
+}
+
+.patch{
+  background-image: url(images/tera-skywatch.jpg);
+  background-size: 100%;
+  color: white;
+}
