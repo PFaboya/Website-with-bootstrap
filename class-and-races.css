@@ -94,3 +94,11 @@ background-size: 100%
 .description{
   font-size: 25px
 }
+
+.class{
+  background-image: url(images/tera-class.jpg);
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: 80% 20%;
+  font-size: 15px;
+}
