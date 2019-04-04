@@ -1,0 +1,96 @@
+.Races{
+  margin-top: 5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: blue;
+  background-color: black;
+  color: white;
+}
+
+.human-pic{
+background-image: url(images/tera-human.png);
+background-repeat: no-repeat;
+background-color: black;
+height: 200px;
+background-size: 100%
+}
+
+.human{
+  height: 210px;
+}
+
+.elf-pic{
+background-image: url(images/tera-elf.png);
+background-repeat: no-repeat;
+background-color: black;
+height: 200px;
+background-size: 100%
+}
+
+.elf{
+  height: 210px;
+}
+
+.amani-pic{
+background-image: url(images/tera-amani.png);
+background-repeat: no-repeat;
+background-color: black;
+height: 200px;
+background-size: 100%
+}
+
+.amani{
+  height: 210px;
+}
+
+.castanic-pic{
+background-image: url(images/tera-castanic.png);
+background-repeat: no-repeat;
+background-color: black;
+height: 200px;
+background-size: 100%
+}
+
+.castanic{
+  height: 210px;
+}
+
+.baraka-pic{
+background-image: url(images/tera-baraka.png);
+background-repeat: no-repeat;
+background-color: black;
+height: 200px;
+background-size: 50%
+}
+
+.baraka{
+  height: 210px;
+}
+
+.popori-pic{
+background-image: url(images/tera-popori.png);
+background-repeat: no-repeat;
+background-color: black;
+height: 200px;
+background-size: 100%
+}
+
+.popori{
+  height: 210px;
+}
+
+.elin-pic{
+background-image: url(images/tera-elin.png);
+background-repeat: no-repeat;
+background-color: black;
+height: 200px;
+background-size: 100%
+}
+
+.elin{
+  height: 210px;
+}
+
+.description{
+  font-size: 25px
+}
