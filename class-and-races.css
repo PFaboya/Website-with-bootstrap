@@ -102,3 +102,9 @@ background-size: 100%
   background-position: 80% 20%;
   font-size: 15px;
 }
+
+@media screen and (max-width: 1000px){
+  .class{
+  background-image: none;
+  }
+}
