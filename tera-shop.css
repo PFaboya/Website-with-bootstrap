@@ -1,0 +1,44 @@
+.main-banner{
+  margin-top:20px;
+  background-image: url(images/tera-cosmetics.jpg);
+  height:650px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: white;
+  color: white;
+}
+
+.loot-list{
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+}
+
+a.loot-list{
+  color: green;
+}
+.second-banner{
+  background-image: url(images/tera-mounts.jpg);
+  height: 300px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: white;
+}
+
+.mounts{
+  font-size: 25px;
+}
+
+.third-banner{
+  background-image: url(images/tera-pets.jpg);
+  height: 300px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  /* background-color: white; */
+}
+
+.pets{
+  font-size: 25px;
+}
